@@ -335,16 +335,16 @@ const AboutMe: React.FC = () => {
 
         <ul>
           <li style={{ fontSize: "20px" }}>
-            I always expresses my opinions and listens to others
+            I always share my thoughts while staying open to different perspectives.
           </li>
-          <li style={{ fontSize: "20px" }}>I am driven & ambitious</li>
+          <li style={{ fontSize: "20px" }}>I'm passionate about what I do and always eager to learn and grow.</li>
           <li style={{ fontSize: "20px" }}>
-            Some call me stubborn, I don't like to give up
+            I can be a little stubborn, but I prefer to call it determination!
           </li>
-          <li style={{ fontSize: "20px" }}>I am an anime fan</li>
-          <li style={{ fontSize: "20px" }}>I am a gamer</li>
+          <li style={{ fontSize: "20px" }}>I'm an anime enthusiast</li>
+          <li style={{ fontSize: "20px" }}>I'm a gamer who enjoys a good challenge.</li>
           <li style={{ fontSize: "20px" }}>
-            I am a non-coffee-drinker (crazy, I know)
+            I don’t drink coffee (I know, hard to believe!).
           </li>
         </ul>
       </List>
